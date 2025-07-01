@@ -1,0 +1,6 @@
+flask
+gunicorn
+pillow
+unrar
+pyunpack
+patool
